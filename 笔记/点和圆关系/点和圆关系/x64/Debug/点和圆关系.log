@@ -1,0 +1,7 @@
+﻿  circle.cpp
+  point.cpp
+  源.cpp
+  point.h
+  正在生成代码...
+点和圆关系\x64\Debug\point.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  点和圆关系.vcxproj -> E:\编程产品\点和圆关系\x64\Debug\点和圆关系.exe
