@@ -1,0 +1,11 @@
+﻿  类内做友元.cpp
+E:\编程产品\友元\类内做友元.cpp(9,23): error C2027: 使用了未定义类型“goodgay”
+      E:\编程产品\友元\类内做友元.cpp(5,7):
+      参见“goodgay”的声明
+  
+E:\编程产品\友元\类内做友元.cpp(50,42): error C2248: “Building::m_bedroom”: 无法访问 private 成员(在“Building”类中声明)
+      E:\编程产品\友元\类内做友元.cpp(16,9):
+      参见“Building::m_bedroom”的声明
+      E:\编程产品\友元\类内做友元.cpp(7,7):
+      参见“Building”的声明
+  
